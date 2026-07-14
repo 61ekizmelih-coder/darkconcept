@@ -361,7 +361,7 @@ h6 {
 
 /* Services Section */
 .services {
-    padding: 120px 0;
+    padding: 50px 0 20px;
     background: linear-gradient(180deg, var(--bg-white) 0%, var(--bg-light) 100%);
     position: relative;
     z-index: 10;
@@ -716,7 +716,7 @@ h6 {
 
 /* Photo Gallery Section */
 .gallery {
-    padding: 100px 0;
+    padding: 80px 0 20px;
     background: var(--bg-light);
     position: relative;
     z-index: 10;
@@ -794,7 +794,7 @@ h6 {
 
 /* Decoration Section */
 .decoration {
-    padding: 100px 0;
+    padding: 80px 0 20px;
     background: white;
     position: relative;
     z-index: 10;
@@ -950,7 +950,7 @@ h6 {
 
 /* About Section */
 .about {
-    padding: 120px 0 2000px;
+    padding: 90px 0 20px;
     background: var(--bg-white);
     position: relative;
     z-index: 10;
@@ -1069,7 +1069,7 @@ h6 {
 
 /* References Section */
 .references {
-    padding: 120px 0;
+    padding: 50px 0 20px;
     background: linear-gradient(180deg, var(--bg-light) 0%, var(--bg-white) 100%);
     position: relative;
     z-index: 10;
@@ -1128,7 +1128,7 @@ h6 {
 
 /* Contact Section */
 .contact {
-    padding: 120px 0;
+    padding: 80px 0 20px;
     background: linear-gradient(135deg, var(--primary-color) 0%, var(--primary-light) 100%);
     position: relative;
     z-index: 10;
@@ -1282,7 +1282,7 @@ h6 {
 
 /* Fuar Section */
 .fuar-section {
-    padding: 100px 0;
+    padding: 80px 0 20px;
     background: linear-gradient(135deg, #0a1628 0%, #1a2a4a 50%, #0d1f3c 100%);
     position: relative;
     z-index: 10;
