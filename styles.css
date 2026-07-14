@@ -1282,7 +1282,7 @@ h6 {
 
 /* Fuar Section */
 .fuar-section {
-    padding: 80px 0 20px;
+    padding: 80px 0 50px;
     background: linear-gradient(135deg, #0a1628 0%, #1a2a4a 50%, #0d1f3c 100%);
     position: relative;
     z-index: 10;
