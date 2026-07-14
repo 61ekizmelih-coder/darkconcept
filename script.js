@@ -269,3 +269,20 @@ style.textContent = `
     }
 `;
 document.head.appendChild(style);
+setTimeout(() => {
+
+document.getElementById("waPopup").style.display="block";
+
+},2000);
+
+setTimeout(() => {
+
+document.getElementById("waPopup").style.display="none";
+
+},10000);
+
+function closeWaPopup(){
+
+document.getElementById("waPopup").style.display="none";
+
+}
